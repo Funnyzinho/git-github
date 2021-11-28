@@ -21,7 +21,7 @@
 <br>
 
 <div align="center">
-<kbd><img src="imagens/site.gif" alt="Site Gif"></img></kbd>
+<kbd><img src="imagens/preview.gif" alt="Site Gif"></img></kbd>
 </div>
 
 ## :blush: **Why?**
