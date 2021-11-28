@@ -1,18 +1,42 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic);
+
 * {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 16px;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 body {
-  background-color: #acacff;
+  height: 100vh;
+  width: 100vw;
+
+  font-family: "Roboto", Helvetica, sans-serif;
+  font-size: 16px;
+  background-color: #161627;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 main {
-  background-color: white;
+  background-color: #e0e8ff;
   width: 560px;
-  margin: auto;
-  padding: 10px;
+  padding: 40px;
   box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
+  border-radius: 3px;
+}
+
+header.principal {
+  margin-left: 10px;
+}
+
+.curso-html-css {
+  margin: 20px 10px;
+}
+
+.curso-javascript {
+  margin: 20px 10px;
 }
 
 h1 {
@@ -32,10 +56,26 @@ img.lado {
 a {
   text-decoration: none;
   font-weight: bold;
-  color: rgb(58, 0, 112);
+  color: #1a1aff;
 }
 
 a:hover {
   text-decoration: underline;
   color: rgb(26, 26, 255);
+}
+
+a.btn-back img {
+    margin-top: 30px;
+    height: 60px;
+    width: 60px;
+}
+
+abbr {
+  text-decoration: none;
+  font-weight: 500;
+  color: rgb(58, 0, 112);
+}
+
+iframe {
+    padding-top: 20px;
 }
