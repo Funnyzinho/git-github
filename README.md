@@ -1,9 +1,9 @@
 <h1 align="center">
-    <a href="https://funnyzinho.github.io/responsive-price-card/"> <img src="./assets/images/favicon-32x32.png" alt="favico"></img> Responsive Price Card</a> 
+    <a href="#"> <img src="./imagens/git-logo.svg" alt="favico" height="30"></img> Git e GitHub Site <img src="./imagens/github-logo.svg" alt="favico" height="30"></a> 
 </h1>
 
 <div align="center">
-<a href="https://github.com/Funnyzinho/responsive-price-card/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Funnyzinho/Android-Site?style=for-the-badge">&nbsp;<img src="https://img.shields.io/static/v1?label=Progress&message=100%&color=2FC3E0&style=for-the-badge"/>
+<a href="https://github.com/Funnyzinho/Android-Site/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Funnyzinho/Android-Site?style=for-the-badge">&nbsp;<img src="https://img.shields.io/static/v1?label=Progress&message=100%&color=2FC3E0&style=for-the-badge"/>
 </a></div>
 
 <br>
@@ -16,33 +16,33 @@
  <a href="#rocket-progress">Progress</a> 
 </p>
 
-<p align="center"><strong>🚀 Responsive price card inspired by the Mentor Frontend Template.</strong></p>
+<p align="center"><strong>🚀 The main purpose of this site was to develop my versioning skills.</strong></p>
 
 <br>
 
 <div align="center">
-<kbd><img src="./assets/images/preview.gif" alt="Gif"></img></kbd>
+<kbd><img src="imagens/site.gif" alt="Site Gif"></img></kbd>
 </div>
 
 ## :blush: **Why?**
 
-<p>This project was a clone of Frontend Mentor, in which I developed a 100% responsive card. Training semantic HTML5, CSS3 Flexbox, Media-Query, and other concepts</p>
+<p>The main goal of this site was to develop my skills in versioning with git, and to develop my skills as a github user.</p>
 
 ## :clapper: **Preview**
 
- <a href="https://funnyzinho.github.io/responsive-price-card/" target="_blank"><img src="https://img.shields.io/static/v1?label=Preview&message=Card&color=005eff&style=for-the-badge&logo=Ghost"/></a> 
+ <a href="https://funnyzinho.github.io/Android-Site/android.html" target="_blank"><img src="https://img.shields.io/static/v1?label=Preview&message=Git e GitHub&color=3a0070&style=for-the-badge&logo=ghost"/></a> 
 
 ## :zap: **Tech Stack**
 
-<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40"/>&nbsp;<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40"/>
+<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40"/>&nbsp;<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40"/>&nbsp;<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="32"/>
 
 ## :rocket: **Progress**
 
-<img src="https://img.shields.io/static/v1?label=Progress&message=100%&color=005eff&style=for-the-badge"/>
+<img src="https://img.shields.io/static/v1?label=Progress&message=100%&color=2FC3E0&style=for-the-badge"/>
 
 ## :book: **Autor**
 
-<p>Developed by <a href="https://github.com/funnyzinho"><strong> Pedro Mendes</strong></a>, according to the Frontend Mentor <a href= "https://www.frontendmentor.io/"> <strong>Frontend Mentor</strong></a> template.</ p>
+<p>Developed by <a href="https://github.com/funnyzinho"><strong>Pedro Mendes</strong></a>, according to the GIT and GitHub course of <a href="https: //www.cursoemvideo.com/"><strong>Curso em Video</strong></a>.</p>
 
 ## :handshake: **Connect with me**
 
