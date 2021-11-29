@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="#"> <img src="./imagens/git-logo.svg" alt="favico" height="30"></img> Git e GitHub Site <img src="./imagens/github-logo.svg" alt="favico" height="30"></a> 
+    <a href="https://funnyzinho.github.io/git-github/"> <img src="./imagens/git-logo.svg" alt="favico" height="30"></img> Git e GitHub Site <img src="./imagens/github-logo.svg" alt="favico" height="30"></a> 
 </h1>
 
 <div align="center">
@@ -30,7 +30,7 @@
 
 ## :clapper: **Preview**
 
- <a href="https://funnyzinho.github.io/Android-Site/android.html" target="_blank"><img src="https://img.shields.io/static/v1?label=Preview&message=Git e GitHub&color=3a0070&style=for-the-badge&logo=ghost"/></a> 
+ <a href="https://funnyzinho.github.io/git-github/" target="_blank"><img src="https://img.shields.io/static/v1?label=Preview&message=Git e GitHub&color=3a0070&style=for-the-badge&logo=ghost"/></a> 
 
 ## :zap: **Tech Stack**
 
