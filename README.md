@@ -1,9 +1,9 @@
 <h1 align="center">
-    <a href="https://funnyzinho.github.io/git-github/"> <img src="./imagens/git-logo.svg" alt="favico" height="30"></img> Git e GitHub Site <img src="./imagens/github-logo.svg" alt="favico" height="30"></a> 
+    <a href="https://devpedrom.github.io/git-github/"> <img src="./imagens/git-logo.svg" alt="favico" height="30"></img> Git e GitHub Site <img src="./imagens/github-logo.svg" alt="favico" height="30"></a> 
 </h1>
 
 <div align="center">
-<a href="https://github.com/Funnyzinho/Android-Site/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Funnyzinho/Android-Site?style=for-the-badge">&nbsp;<img src="https://img.shields.io/static/v1?label=Progress&message=100%&color=2FC3E0&style=for-the-badge"/>
+<a href="https://github.com/devpedrom/Android-Site/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/devpedrom/Android-Site?style=for-the-badge">&nbsp;<img src="https://img.shields.io/static/v1?label=Progress&message=100%&color=2FC3E0&style=for-the-badge"/>
 </a></div>
 
 <br>
@@ -30,7 +30,7 @@
 
 ## :clapper: **Preview**
 
- <a href="https://funnyzinho.github.io/git-github/" target="_blank"><img src="https://img.shields.io/static/v1?label=Preview&message=Git e GitHub&color=3a0070&style=for-the-badge&logo=ghost"/></a> 
+<a href="https://devpedrom.github.io/git-github/" target="_blank"><img src="https://img.shields.io/static/v1?label=Preview&message=Git e GitHub&color=3a0070&style=for-the-badge&logo=ghost"/></a>
 
 ## :zap: **Tech Stack**
 
@@ -42,12 +42,12 @@
 
 ## :book: **Autor**
 
-<p>Developed by <a href="https://github.com/funnyzinho"><strong>Pedro Mendes</strong></a>, according to the GIT and GitHub course of <a href="https: //www.cursoemvideo.com/"><strong>Curso em Video</strong></a>.</p>
+<p>Developed by <a href="https://github.com/devpedrom"><strong>Pedro Mendes</strong></a>, according to the GIT and GitHub course of <a href="https: //www.cursoemvideo.com/"><strong>Curso em Video</strong></a>.</p>
 
 ## :handshake: **Connect with me**
 
 <div align="left">
-  <a href="https://github.com/funnyzinho" target="_blank">
+  <a href="https://github.com/devpedrom" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white
       alt=github style="margin-bottom: 5px;" />
   </a>
