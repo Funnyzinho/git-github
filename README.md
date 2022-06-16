@@ -9,7 +9,6 @@
 <br>
 
 <p align="center">
- <a href="#blush-why">Why</a> •
  <a href="#zap-tech-stack">Tech Stack</a> • 
  <a href="#clapper-preview">Preview</a> •
  <a href="#book-autor">Autor</a> • 
@@ -23,10 +22,6 @@
 <div align="center">
 <kbd><img src="imagens/preview.gif" alt="Site Gif"></img></kbd>
 </div>
-
-## :blush: **Why?**
-
-<p>The main goal of this site was to develop my skills in versioning with git, and to develop my skills as a github user.</p>
 
 ## :clapper: **Preview**
 
